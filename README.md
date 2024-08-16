@@ -1,7 +1,9 @@
 # Power-BI-Insights
 # Business Insight:
 [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjcyZDkyM2ItY2E2OC00OTk4LThkN2ItYmFiYWE2YzllMmUxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 [Video](https://youtu.be/qbOz4K1cAZI)
+
 ➡️About this project:
 
 🔴Analysis was conducted on the sales, marketing and finance views of business to check the current and the last year conditions.
